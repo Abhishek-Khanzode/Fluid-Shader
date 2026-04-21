@@ -1,7 +1,7 @@
 ![alt text](https://github.com/Abhishek-Khanzode/Fluid-Shader/blob/4f88103752826a21b5e5ff2510d49f2450241890/public/img.png)
 
-
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Fluid Shader - React Fluid Distortion
+This is a Fluid Shader using React Fuild Distortion! (https://github.com/whatisjery/react-fluid-distortion).
 
 ## Getting Started
 
